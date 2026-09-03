@@ -21,9 +21,3 @@ I'm always exploring new technologies, working on personal projects, and looking
 ![](https://github-readme-stats.shion.dev/api?username=romhackman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=romhackman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=romhackman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<h2>🐍 My Contributions</h2>
-
-<img src="https://raw.githubusercontent.com/romhackman/romhackman/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake">
-
-
