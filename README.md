@@ -21,3 +21,16 @@ I'm always exploring new technologies, working on personal projects, and looking
 ![](https://github-readme-stats.shion.dev/api?username=romhackman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=romhackman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=romhackman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 👾 romhackman | Cybersecurity
+
+<p align="center">
+  <img src="assets/rootme.svg" alt="Root-Me statistics" width="48%">
+  <img src="assets/thm_badge.svg" alt="TryHackMe statistics" width="48%">
+</p>
+
+<p align="center">
+  <a href="https://www.root-me.org/romhackman">Root-Me Profile</a>
+  •
+  <a href="https://tryhackme.com/p/romhackman">TryHackMe Profile</a>
+</p>
