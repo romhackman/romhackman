@@ -1,0 +1,103 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1280 320"
+  width="1280"
+  height="320"
+  preserveAspectRatio="xMidYMid slice"
+  fill="none"
+  role="img"
+  aria-label="GitHub Profile Banner"
+>
+  <clipPath id="banner-clip">
+    <rect width="1280" height="320" rx="16" />
+  </clipPath>
+  <g clip-path="url(#banner-clip)">
+    
+    
+    
+    <defs>
+      <filter id="liquid-blur" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="40" result="blur" />
+      </filter>
+      
+      
+      <filter id="text-glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="8" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+      
+      
+      
+      <filter id="noise">
+        <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" />
+        <feColorMatrix type="matrix" values="1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 0.1 0" />
+      </filter>
+      
+    </defs>
+  
+    
+    <defs>
+      <linearGradient id="bg-grad" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#161b22" />
+        <stop offset="100%" stop-color="#161b22" />
+      </linearGradient>
+    </defs>
+  
+  
+    
+    <defs>
+    <linearGradient id="wave-grad-1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39d353" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#26a641" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="wave-grad-2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#26a641" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#114429" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="wave-grad-3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#114429" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+    <rect width="1280" height="320" fill="url(#bg-grad)" />
+    
+    <g filter="url(#liquid-blur)">
+      
+      <g opacity="0.7">
+        <path fill="url(#wave-grad-1)">
+          <animate attributeName="d" values="M-300,224 Q-150,144 0,224 Q150,144 300,224 Q450,144 600,224 Q750,144 900,224 Q1050,144 1200,224 Q1350,144 1500,224 Q1650,144 1800,224 Q1950,144 2100,224 L1880,520 L-300,520 Z; M-300,224 Q-150,304 0,224 Q150,304 300,224 Q450,304 600,224 Q750,304 900,224 Q1050,304 1200,224 Q1350,304 1500,224 Q1650,304 1800,224 Q1950,304 2100,224 L1880,520 L-300,520 Z; M-300,224 Q-150,144 0,224 Q150,144 300,224 Q450,144 600,224 Q750,144 900,224 Q1050,144 1200,224 Q1350,144 1500,224 Q1650,144 1800,224 Q1950,144 2100,224 L1880,520 L-300,520 Z" dur="10s" repeatCount="indefinite" />
+          <animateTransform attributeName="transform" type="translate" values="0,0; -300,0; 0,0" dur="20s" repeatCount="indefinite" />
+        </path>
+      </g>
+    
+      
+      <g opacity="0.7">
+        <path fill="url(#wave-grad-2)">
+          <animate attributeName="d" values="M-300,160 Q-150,100 0,160 Q150,100 300,160 Q450,100 600,160 Q750,100 900,160 Q1050,100 1200,160 Q1350,100 1500,160 Q1650,100 1800,160 Q1950,100 2100,160 L1880,520 L-300,520 Z; M-300,160 Q-150,220 0,160 Q150,220 300,160 Q450,220 600,160 Q750,220 900,160 Q1050,220 1200,160 Q1350,220 1500,160 Q1650,220 1800,160 Q1950,220 2100,160 L1880,520 L-300,520 Z; M-300,160 Q-150,100 0,160 Q150,100 300,160 Q450,100 600,160 Q750,100 900,160 Q1050,100 1200,160 Q1350,100 1500,160 Q1650,100 1800,160 Q1950,100 2100,160 L1880,520 L-300,520 Z" dur="14s" repeatCount="indefinite" />
+          <animateTransform attributeName="transform" type="translate" values="0,0; 300,0; 0,0" dur="28s" repeatCount="indefinite" />
+        </path>
+      </g>
+    
+      
+      <g opacity="0.7">
+        <path fill="url(#wave-grad-3)">
+          <animate attributeName="d" values="M-300,256 Q-150,156 0,256 Q150,156 300,256 Q450,156 600,256 Q750,156 900,256 Q1050,156 1200,256 Q1350,156 1500,256 Q1650,156 1800,256 Q1950,156 2100,256 L1880,520 L-300,520 Z; M-300,256 Q-150,356 0,256 Q150,356 300,256 Q450,356 600,256 Q750,356 900,256 Q1050,356 1200,256 Q1350,356 1500,256 Q1650,356 1800,256 Q1950,356 2100,256 L1880,520 L-300,520 Z; M-300,256 Q-150,156 0,256 Q150,156 300,256 Q450,156 600,256 Q750,156 900,256 Q1050,156 1200,256 Q1350,156 1500,256 Q1650,156 1800,256 Q1950,156 2100,256 L1880,520 L-300,520 Z" dur="18s" repeatCount="indefinite" />
+          <animateTransform attributeName="transform" type="translate" values="0,0; -300,0; 0,0" dur="36s" repeatCount="indefinite" />
+        </path>
+      </g>
+    
+    </g>
+    
+    <rect width="1280" height="320" fill="url(#noise)" style="mix-blend-mode: overlay; opacity: 0.35;" />
+    
+    <g text-anchor="middle">
+      <text x="50%" y="50%" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="800" dominant-baseline="middle" fill="#FFFFFF" letter-spacing="-0.02em" filter="url(#text-glow)">
+        Romhackman
+      </text>
+      
+    </g>
+  
+  
+  
+  </g>
+</svg>
