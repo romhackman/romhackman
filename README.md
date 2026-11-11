@@ -1,6 +1,6 @@
 💫 About Me
 
-![romhackman](https://www.gitskins.com/api/section/wordmark?username=romhackman&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248145784%3Fu%3D67444fa305679c252a8f7cef0366a56e7b8b9b3b%26v%3D4&label=romhackman)
+<img src="./banner.svg" width="100%" alt="Romhackman Banner" />
 
 
 I'm a beginner developer passionate about building and experimenting with software.
